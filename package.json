@@ -1,0 +1,11 @@
+{
+  "name": "17-06-2021",
+  "version": "1.0.0",
+  "description": "Session 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "sandeep.rana",
+  "license": "ISC"
+}
